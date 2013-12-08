@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa80f949_a3e76211",
+        "filename": "init.geefhd.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 10
+      },
+      "writtenOn": "2013-12-08T14:48:05Z",
+      "side": 1,
+      "message": "AFAIK, nothing uses this variable. What\u0027s it supposed to do?",
+      "revId": "461e2d8cc69089902fd7af29e253a7c5e7da3520",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
